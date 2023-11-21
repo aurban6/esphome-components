@@ -120,5 +120,5 @@ async def to_code(config):
     cg.add_library(
         None,
         None,
-        "https://github.com/SzczepanLeon/wmbus-drivers@default_key",
+        "https://github.com/SzczepanLeon/wmbus-drivers/tree/default_key",
     )
