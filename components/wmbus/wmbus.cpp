@@ -41,7 +41,7 @@ void WMBusComponent::setup() {
   this->add_driver(new Mkradio4());
   this->add_driver(new Qheat());
   this->add_driver(new Qwater());
-  this->add_driver(new Sharky774());
+  this->add_driver(new Sharky774("51728910E66D83F851728910E66D83F8"));
   this->add_driver(new TopasESKR());
   this->add_driver(new Ultrimis());
   this->add_driver(new Unismart());
